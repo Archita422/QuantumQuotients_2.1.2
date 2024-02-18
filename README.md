@@ -25,7 +25,7 @@ The Rythm Realm front-end is deployed on a web hosting platform, providing users
 
 ## Getting Started
 
-To experience the magic of Rythm Realm, simply visit our deployed website [here] https://rythmrealm.freewebhostmost.com and start creating your playlists, exploring dynamic albums, and enjoying a responsive and user-friendly music experience.
+To experience the magic of Rythm Realm, simply visit our deployed website https://rythmrealm.freewebhostmost.com and start creating your playlists, exploring dynamic albums, and enjoying a responsive and user-friendly music experience.
 
 ## Contribute
 
